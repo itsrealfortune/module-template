@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for contributing to typescript-virtual-container.
+Thanks for contributing to this module.
 
 ## Development Setup
 
